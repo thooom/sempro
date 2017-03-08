@@ -1,0 +1,1 @@
+'CategoriesController'=>  App\Http\Controllers\CategoriesController::class,
